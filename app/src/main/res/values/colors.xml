@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryToolbar">#9009538E</color>
+    <color name="colorPrimary">#0065B3</color>
+
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="main_background">#FFF</color>
+
+    <color name="toolbar_background">#FFFFFF</color>
+    <color name="default_text_color">#000</color>
+
+
+    <color name="login_button_color">#0091EA</color>
+    <color name="tab_indicator_color">#073763</color>
+    <color name="tab_indicator_text_color">#074f63</color>
+
+
+    <color name="icon_background_color">#435674</color>
+
+    <color name="splash_top_color">#09538E </color>
+    <color name="splash_bottom_color">#1C71AD </color>
+    <color name="InactiveBottomNavIconColor">#aaaaaa </color>
+    <color name="bottom_nav_background">#155b96 </color>
+    =======
+    <color name="line_color">#074f63</color>
+    <color name="default_lenta_time_color">#9B9B9B</color>
+    <color name="blueCategoryTextColor">#183784</color>
+    >>>>>>> origin/abubakr
+
+    <color name="tintImage">#41000000</color>
+
+    <color name="primary_500">#3F51B5</color>
+
+    <color name="black_trans80">#33000000</color>
+</resources>
